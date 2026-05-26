@@ -149,18 +149,7 @@ tools:
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=DaFt-Oni&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaFt-Oni&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=DaFt-Oni&theme=transparent&hide_border=true"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaFt-Oni&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
