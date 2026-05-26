@@ -9,148 +9,200 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝        ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
 ```
 
-### Systems Developer • Automation • Python • Infrastructure
+### Systems Developer • Automation • Infrastructure • Python
 
-> Building tools that should probably exist already.
+> Building systems that feel like they should already exist.
+
+🌐 https://francoortiz.vercel.app
 
 </div>
 
 ---
 
-# About Me
+# /about
 
-```yaml
-name: Franco Ortiz
-location: Chile
-education:
-  - INACAP — Ingeniería en Informática
-current_focus:
-  - Internal systems
-  - Warehouse/logistics platforms
-  - Automation tooling
-  - Secure package management
-  - Python desktop/web tooling
+```bash
+user@github:~$ whoami
 
+Name: Franco Ortiz
+Alias: DaFt-Oni
+Country: Chile
+Education: INACAP — Ingeniería en Informática
+
+Focus:
+- Internal systems & infrastructure tooling
+- Automation-first development
+- Warehouse / logistics platforms
+- Secure package management systems
+- Developer productivity tools
+
+Mindset:
+- systems > features
+- automation > repetition
+- clarity > complexity
+```
+
+---
+
+# /what_i_build
+
+```txt
+[ systems engineering ]
+→ Tools that replace manual processes
+→ Internal dashboards & operational logic
+
+[ automation ]
+→ Scripts, pipelines, CLI tools
+→ Workflow optimization systems
+
+[ platforms ]
+→ Scalable web applications
+→ Backend + frontend integration
+
+[ developer tools ]
+→ Package managers / CLI systems
+→ Productivity-focused utilities
+```
+
+---
+
+# /experience_snapshot
+
+```txt
+i1n — Founder / Systems Architecture
+------------------------------------
+→ Localization infrastructure platform
+→ Version-controlled translation system
+→ AI-assisted multilingual workflows
+→ Developer-first i18n pipelines
+
+Belo — Product Engineering
+---------------------------
+→ React Native mobile systems
+→ Large-scale frontend coordination
+→ Performance-focused product migration
+
+Freelance / Internal Systems
+----------------------------
+→ Warehouse & logistics automation
+→ Internal enterprise tooling
+→ Backend system design & APIs
+```
+
+---
+
+# /stack
+
+```txt
 languages:
   - Python
-  - JavaScript
+  - JavaScript / TypeScript
   - SQL
   - Bash
 
-tech:
-  backend:
-    - Flask
-    - FastAPI
-    - SQLite
-  frontend:
-    - React
-    - React Native
-  tooling:
-    - Docker
-    - Git
-    - Linux
-    - VSCode
+backend:
+  - Flask
+  - FastAPI
+  - Node.js
+
+frontend:
+  - React
+  - React Native
+
+infra:
+  - Docker
+  - Git
+  - Linux
+
+tools:
+  - VSCode
+  - Neovim
+  - CLI-first workflow
 ```
 
 ---
 
-# Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-
-</div>
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaFt-Oni&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaFt-Oni&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DaFt-Oni&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# Current Projects
+# /projects
 
 ```txt
 [+] PyCk
- └─ Secure package manager concept
-    with quarantine/version delay system
+    Secure package manager concept
+    → version delay + quarantine system
+    → safer dependency installation model
 
 [+] Maverick
- └─ Discord bot & automation platform
+    Discord automation system
+    → bot framework + task automation
 
 [+] Universal DB Manager
- └─ phpMyAdmin-inspired database UI
-    focused on SQLite and drag & drop workflows
+    phpMyAdmin-inspired interface
+    → SQLite-first + drag & drop DB handling
 
 [+] Internal Warehouse Systems
- └─ Automation & operational tooling
+    enterprise automation layer
+    → logistics + operational optimization
 ```
 
 ---
 
-# Terminal
+# /github_stats
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=DaFt-Oni&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaFt-Oni&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=DaFt-Oni&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# /activity
+
+<div align="center">
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaFt-Oni&theme=github-compact&hide_border=true)](https://github.com/DaFt-Oni)
+
+</div>
+
+---
+
+# /terminal
 
 ```bash
 franco@github:~$ neofetch
 
-OS: Arch/Linux & Windows
+OS: Windows / Linux (dual workflow)
 Shell: bash
 Editor: VSCode + Neovim
-Stack: Python / React / Docker
-Focus: Automation & Infrastructure
-Status: Building weird useful things
+Focus: Systems & automation engineering
+Status: building things that remove manual work
 ```
 
 ---
 
-# Activity Graph
+# /connect
 
-<div align="center">
+```bash
+franco@github:~$ contact --list
 
-[![Franco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaFt-Oni&theme=github-compact&hide_border=true)](https://github.com/DaFt-Oni)
-
-</div>
+GitHub:   https://github.com/DaFt-Oni
+Website:  https://francoortiz.vercel.app
+```
 
 ---
 
-# Philosophy
+# /signature
 
 ```txt
-Good software should:
-- solve real problems
-- be maintainable
-- avoid unnecessary complexity
-- automate repetitive work
-- fail safely
+DaFt-Oni :: systems engineer mode active
 ```
-
----
-
-# Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/DaFt-Oni)
-
-</div>
