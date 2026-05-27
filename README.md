@@ -8,13 +8,43 @@
 
 > Building systems that feel like they should already exist.
 
-<div
-  <a href="https://www.linkedin.com/in/franco-ortiz-a18471317/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+<div style="display: flex; gap: 12px; align-items: center;">
+  
+  <a href="https://www.linkedin.com/in/franco-ortiz-a18471317/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+      width="37" 
+      height="25" 
+      alt="linkedin logo" 
+    />
   </a>
-  <a href="https://francoortiz.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/DaFt-Oni/DaFt-Oni/refs/heads/main/web-site-window.svg" width="37" height="25" alt="linkedin logo"  />
+
+  <a href="https://francoortiz.vercel.app" target="_blank" rel="noopener noreferrer">
+    <svg 
+      fill="#420a7b" 
+      width="40px" 
+      height="40px" 
+      version="1.1" 
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="-51.2 -51.2 614.40 614.40"
+      stroke="#420a7b" 
+      stroke-width="0.00512"
+    >
+      <g>
+        <path d="M0,25.6V128h499.2V25.6H0z M76.8,96c-10.604,0-19.2-8.596-19.2-19.2s8.596-19.2,19.2-19.2S96,66.196,96,76.8 S87.404,96,76.8,96z M140.8,96c-10.604,0-19.2-8.596-19.2-19.2s8.596-19.2,19.2-19.2S160,66.196,160,76.8S151.404,96,140.8,96z M204.8,96c-10.604,0-19.2-8.596-19.2-19.2s8.596-19.2,19.2-19.2S224,66.196,224,76.8S215.404,96,204.8,96z"></path>
+      </g>
+
+      <g>
+        <path d="M0,166.4v256h308.721c-0.997-6.257-1.521-12.667-1.521-19.2c0-23.466,6.689-45.398,18.25-64H275.2v-38.4h88.081 c18.921-12.148,41.412-19.2,65.519-19.2c26.216,0,50.52,8.339,70.4,22.504V166.4H0z M224,339.2H96v-38.4h128V339.2z M224,262.4H96V224h128V262.4z M403.2,262.4h-128V224h128V262.4z"></path>
+      </g>
+
+      <g>
+        <path d="M428.8,320c-45.876,0-83.2,37.323-83.2,83.2c0,45.876,37.324,83.2,83.2,83.2s83.2-37.323,83.2-83.2 C512,357.323,474.676,320,428.8,320z M473.6,422.4H448V448h-38.4v-25.6H384V384h25.6v-25.6H448V384h25.6V422.4z"></path>
+      </g>
+
+    </svg>
   </a>
+
 </div>
 
 ###
