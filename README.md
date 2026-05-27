@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Systems Developer • Automation • Infrastructure • Python
+### Systems Developer • Automation • Infrastructure
 
 > Building systems that feel like they should already exist.
 
@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://francoortiz.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/DaFt-Oni/DaFt-Oni/refs/heads/main/web.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/DaFt-Oni/DaFt-Oni/refs/heads/main/web-site-window.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
