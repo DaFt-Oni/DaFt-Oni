@@ -1,12 +1,175 @@
 <div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/DaFt-Oni/DaFt-Oni/refs/heads/main/favicon.ico"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/franco-ortiz-a18471317/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://francoortiz.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/DaFt-Oni/DaFt-Oni/refs/heads/main/web.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<p align="center">
 
 ```txt
-██████╗  █████╗ ███████╗████████╗      ██████╗ ███╗   ██╗██╗
-██╔══██╗██╔══██╗██╔════╝╚══██╔══╝     ██╔═══██╗████╗  ██║██║
-██║  ██║███████║█████╗     ██║        ██║   ██║██╔██╗ ██║██║
-██║  ██║██╔══██║██╔══╝     ██║        ██║   ██║██║╚██╗██║██║
-██████╔╝██║  ██║██║        ██║███████╗╚██████╔╝██║ ╚████║██║
-╚═════╝ ╚═╝  ╚═╝╚═╝        ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
+██████╗  █████╗ ███████╗████████╗    ██████╗ ███╗   ██╗██╗
+██╔══██╗██╔══██╗██╔════╝╚══██╔══╝   ██╔═══██╗████╗  ██║██║
+██║  ██║███████║█████╗     ██║█████╗██║   ██║██╔██╗ ██║██║
+██║  ██║██╔══██║██╔══╝     ██║╚════╝██║   ██║██║╚██╗██║██║
+██████╔╝██║  ██║██║        ██║      ╚██████╔╝██║ ╚████║██║
+╚═════╝ ╚═╝  ╚═╝╚═╝        ╚═╝       ╚═════╝ ╚═╝  ╚═══╝╚═╝
+```
+  
+</p>
+
+###
+
+<br clear="both">
+
+<h3 align="left">/about_me</h3>
+
+###
+
+<p align="left">
+
+```bash
+user@github:~$ whoami
+
+Name: Franco Ortiz
+Alias: DaFt-Oni
+Country: Chile
+Education: Computer Engineering (Software and Infrastructure)
+
+Focus:
+- Internal systems & infrastructure tooling
+- Automation-first development
+- Warehouse / logistics platforms
+- Secure package management systems
+- Developer productivity tools
+
+Mindset:
+- systems > features
+- automation > repetition
+- clarity > complexity
+```
+  
+</p>
+
+###
+
+<h3 align="left">/stack</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<h3 align="left">/frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h3 align="left">/infra & tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+</div>
+
+###
+
+<h3 align="left">/github_stats</h3>
+
+###
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaFt-Oni&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
+
+###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+```txt
+██████╗  █████╗ ███████╗████████╗    ██████╗ ███╗   ██╗██╗
+██╔══██╗██╔══██╗██╔════╝╚══██╔══╝   ██╔═══██╗████╗  ██║██║
+██║  ██║███████║█████╗     ██║█████╗██║   ██║██╔██╗ ██║██║
+██║  ██║██╔══██║██╔══╝     ██║╚════╝██║   ██║██║╚██╗██║██║
+██████╔╝██║  ██║██║        ██║      ╚██████╔╝██║ ╚████║██║
+╚═════╝ ╚═╝  ╚═╝╚═╝        ╚═╝       ╚═════╝ ╚═╝  ╚═══╝╚═╝
 ```
 
 ### Systems Developer • Automation • Infrastructure • Python
