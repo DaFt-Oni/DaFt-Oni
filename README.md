@@ -2,12 +2,13 @@
   <img height="150" src="https://raw.githubusercontent.com/DaFt-Oni/DaFt-Oni/refs/heads/main/favicon.ico"  />
 </div>
 
+<div align="center">
 
 ### Systems Developer • Automation • Infrastructure • Python
 
 > Building systems that feel like they should already exist.
 
-<div align="center">
+<div
   <a href="https://www.linkedin.com/in/franco-ortiz-a18471317/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
@@ -18,7 +19,6 @@
 
 ###
 
-<div align="center">
 
 ```txt
 ██████╗  █████╗ ███████╗████████╗    ██████╗ ███╗   ██╗██╗
