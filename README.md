@@ -19,21 +19,14 @@
     />
   </a>
 
+  
   <a href="https://francoortiz.vercel.app" target="_blank" rel="noopener noreferrer">
-    <svg 
-      fill="#420a7b" 
-      width="40px" 
-      height="40px" 
-      version="1.1" 
-      xmlns="http://www.w3.org/2000/svg"
-      viewBox="-51.2 -51.2 614.40 614.40"
-      stroke="#420a7b" 
-      stroke-width="0.00512"
-    >
-      <g>
-        <path d="M0,25.6V128h499.2V25.6H0z M76.8,96c-10.604,0-19.2-8.596-19.2-19.2s8.596-19.2,19.2-19.2S96,66.196,96,76.8 S87.404,96,76.8,96z M140.8,96c-10.604,0-19.2-8.596-19.2-19.2s8.596-19.2,19.2-19.2S160,66.196,160,76.8S151.404,96,140.8,96z M204.8,96c-10.604,0-19.2-8.596-19.2-19.2s8.596-19.2,19.2-19.2S224,66.196,224,76.8S215.404,96,204.8,96z"></path>
-      </g>
-    </svg>
+    <img 
+      src="https://raw.githubusercontent.com/DaFt-Oni/DaFt-Oni/refs/heads/main/web-site-window-new.svg" 
+      width="37" 
+      height="25" 
+      alt="My Web Portfolio" 
+    />
   </a>
 
 </div>
