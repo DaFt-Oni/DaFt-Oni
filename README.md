@@ -4,9 +4,23 @@
 
 <div align="center">
 
+###
+
+
+```txt
+██████╗  █████╗ ███████╗████████╗    ██████╗ ███╗   ██╗██╗
+██╔══██╗██╔══██╗██╔════╝╚══██╔══╝   ██╔═══██╗████╗  ██║██║
+██║  ██║███████║█████╗     ██║█████╗██║   ██║██╔██╗ ██║██║
+██║  ██║██╔══██║██╔══╝     ██║╚════╝██║   ██║██║╚██╗██║██║
+██████╔╝██║  ██║██║        ██║      ╚██████╔╝██║ ╚████║██║
+╚═════╝ ╚═╝  ╚═╝╚═╝        ╚═╝       ╚═════╝ ╚═╝  ╚═══╝╚═╝
+```
+
 ### Systems Developer • Automation • Infrastructure
 
 > Building systems that feel like they should already exist.
+
+---
 
 <div style="display: flex; gap: 12px; align-items: center;">
   
@@ -31,20 +45,7 @@
 
 </div>
 
-###
-
-
-```txt
-██████╗  █████╗ ███████╗████████╗    ██████╗ ███╗   ██╗██╗
-██╔══██╗██╔══██╗██╔════╝╚══██╔══╝   ██╔═══██╗████╗  ██║██║
-██║  ██║███████║█████╗     ██║█████╗██║   ██║██╔██╗ ██║██║
-██║  ██║██╔══██║██╔══╝     ██║╚════╝██║   ██║██║╚██╗██║██║
-██████╔╝██║  ██║██║        ██║      ╚██████╔╝██║ ╚████║██║
-╚═════╝ ╚═╝  ╚═╝╚═╝        ╚═╝       ╚═════╝ ╚═╝  ╚═══╝╚═╝
-```
-  
-</div>
-
+---
 ###
 
 <br clear="both">
@@ -180,47 +181,6 @@ Mindset:
 
 <div align="center">
 
-```txt
-██████╗  █████╗ ███████╗████████╗    ██████╗ ███╗   ██╗██╗
-██╔══██╗██╔══██╗██╔════╝╚══██╔══╝   ██╔═══██╗████╗  ██║██║
-██║  ██║███████║█████╗     ██║█████╗██║   ██║██╔██╗ ██║██║
-██║  ██║██╔══██║██╔══╝     ██║╚════╝██║   ██║██║╚██╗██║██║
-██████╔╝██║  ██║██║        ██║      ╚██████╔╝██║ ╚████║██║
-╚═════╝ ╚═╝  ╚═╝╚═╝        ╚═╝       ╚═════╝ ╚═╝  ╚═══╝╚═╝
-```
-
-### Systems Developer • Automation • Infrastructure • Python
-
-> Building systems that feel like they should already exist.
-
-🌐 https://francoortiz.vercel.app
-
-</div>
-
----
-
-# /about
-
-```bash
-user@github:~$ whoami
-
-Name: Franco Ortiz
-Alias: DaFt-Oni
-Country: Chile
-Education: INACAP — Ingeniería en Informática
-
-Focus:
-- Internal systems & infrastructure tooling
-- Automation-first development
-- Warehouse / logistics platforms
-- Secure package management systems
-- Developer productivity tools
-
-Mindset:
-- systems > features
-- automation > repetition
-- clarity > complexity
-```
 
 ---
 
