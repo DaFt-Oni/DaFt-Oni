@@ -2,7 +2,10 @@
   <img height="150" src="https://raw.githubusercontent.com/DaFt-Oni/DaFt-Oni/refs/heads/main/favicon.ico"  />
 </div>
 
-###
+
+### Systems Developer • Automation • Infrastructure • Python
+
+> Building systems that feel like they should already exist.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/franco-ortiz-a18471317/" target="_blank">
