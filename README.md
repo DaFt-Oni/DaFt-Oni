@@ -67,7 +67,7 @@ Education: Computer Engineering (Software and Infrastructure)
 Focus:
 - Internal systems & infrastructure tooling
 - Automation-first development
-- Warehouse / logistics platforms
+- Platforms
 - Secure package management systems
 - Developer productivity tools
 
