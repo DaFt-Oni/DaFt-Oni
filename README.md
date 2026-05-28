@@ -37,7 +37,7 @@
     <img 
       src="https://raw.githubusercontent.com/DaFt-Oni/DaFt-Oni/refs/heads/main/favicon.ico" 
       width="37" 
-      height="25" 
+      height="37" 
       alt="My Web Portfolio" 
     />
   </a>
