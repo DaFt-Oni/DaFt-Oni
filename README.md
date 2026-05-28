@@ -36,7 +36,7 @@
   <a href="https://francoortiz.vercel.app" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://raw.githubusercontent.com/DaFt-Oni/DaFt-Oni/refs/heads/main/favicon.ico" 
-      width="37" 
+      width="40" 
       height="37" 
       alt="My Web Portfolio" 
     />
