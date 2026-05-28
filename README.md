@@ -23,7 +23,7 @@
 
 <div style="display: flex; gap: 12px; align-items: center;">
   
-  <a href="https://www.linkedin.com/in/franco-ortiz-a18471317/" target="_blank" rel="noopener noreferrer">
+  <a href="www.linkedin.com/in/franco-ortiz-a18471317" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
       width="37" 
