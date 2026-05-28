@@ -100,7 +100,7 @@ Mindset:
 
 ---
 
-# /projects
+<h3 align="left">/projects</h3>
 
 ```txt
 [+] PyCk
@@ -122,7 +122,7 @@ Mindset:
 ```
 ---
 
-# /activity
+<h3 align="left">/activity</h3>
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Mindset:
 
 ---
 
-# /connect
+<h3 align="left">/connect</h3>
 
 ```bash
 franco@github:~$ contact --list
